@@ -1,0 +1,9 @@
+h1 {
+	font-size: 16pt;
+	color:#009999;
+	position: center;
+}
+h1:hover {
+	color: #FF6699;
+	font-size:24px;
+}
